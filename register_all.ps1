@@ -37,7 +37,7 @@ function Remove-Item-ToRecycleBin($Path) {
 # "@
 $pathsToWrite = @"
 D:\scs\appscs
-D:\scs\driscs
+D:\scs\dirscs
 #D:\scs\ps1scs
 D:\scs\filescs
 "@
